@@ -92,4 +92,6 @@ This code demonstrates web scraping techniques using Python's `requests` and `Be
 ---
 
 ### **Outcome**:
-This project demonstrates how to scrape, process, and organize web data into meaningful insights (e.g., unique authors, quotes, tags, book titles). It also highlights the importance of handling pagination and filtering content dynamically.
+This project demonstrates how to scrape, process, and organize web data into meaningful insights (e.g., unique authors, quotes, tags, book titles). It also highlights the importance of handling pagination and filtering content dynamically. 
+
+Code:https://github.com/JIMMYULAHANNAN/Web_Scraping/blob/main/web%20scraping%20exercise%20%20(1).ipynb
